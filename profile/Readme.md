@@ -1,5 +1,7 @@
 # Charité Virtual Research Environment (VRE) AutoDeploy
 
+Copyright (c) Charité – Universitätsmedizin Berlin
+
 [![License](https://img.shields.io/badge/License-EUPL%20v1.2-blue.svg)](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-≤1.29.x-326ce5.svg)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-v1.10+-623CE4.svg)](https://terraform.io/)
