@@ -138,6 +138,7 @@ This work is proudly supported by a consortium of leading European research init
 - Virtual Research Environment at the Charité Berlin
 - EBRAINS Health Data Cloud
 - Berlin Institute of Health and Foundation Charité
+- de.NBI cloud
 
 ---
 
