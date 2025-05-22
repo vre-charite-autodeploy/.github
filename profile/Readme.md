@@ -72,15 +72,14 @@ for TF_FOLDER in "${FOLDERS[@]}"; do
 done
 ```
 
-👉 Read the full deployment guide in each repository for detailed steps.
+👉 Read the full deployment guide in [vre-infra repository](https://github.com/vre-charite-autodeploy/vre-infra) for detailed steps.
 
 
 ## 📚 Documentation & Resources
 
-- **📖 [Deployment Guide](https://github.com/vre-charite-autodeploy/vre-infra)**: Complete step-by-step deployment instructions
+- **📖 [Deployment Guide]([https://github.com/vre-charite-autodeploy/vre-infra](https://github.com/vre-charite-autodeploy/vre-infra/blob/main/DEPLOYMENT.md))**: Complete step-by-step deployment instructions
 - **🔧 [Configuration Reference](https://github.com/vre-charite-autodeploy/vre-infra/tree/main/terraform/config)**: Detailed configuration options
-- **🐛 [Troubleshooting Guide](https://github.com/vre-charite-deploy/vre-infra#troubleshooting)**: Common issues and solutions
-- **💬 [Community Support](https://github.com/vre-charite-autodeploy/discussions)**: Get help from the community
+- **💬 [Community Support](https://github.com/vre-charite-autodeploy/discussions)**: <vre-support@charite.de> and [register for our bi-weekly community meetings](https://us06web.zoom.us/meeting/register/tJErd-utqzkpHtI9rpX8cJVNSidRbM5wuMe1?_x_zm_rtaid=IJCTpcS4SGOCk1TKSMrfZQ.1747903776635.dde5dddf0170eaf75f6b4b29162b6480&_x_zm_rhtaid=232#/registration).
 
 ## 🌟 Use Cases
 
