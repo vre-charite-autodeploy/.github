@@ -106,7 +106,7 @@ We welcome contributions from the research and developer community! Whether you'
 
 ## 📄 License
 
-This project is licensed under the European Union Public License v1.2 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the European Union Public License v1.2 - see the [LICENSE](https://github.com/vre-charite-autodeploy/vre-infra/blob/main/LICENSE) file for details.
 
 ---
 
