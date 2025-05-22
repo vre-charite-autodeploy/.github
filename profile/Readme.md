@@ -146,6 +146,6 @@ This work is proudly supported by a consortium of leading European research init
 
 **🔬 Empowering Research Through Secure, Compliant, and Scalable Digital Infrastructure 🔬**
 
-[Get Started](https://github.com/vre-charite-dev/vre-infra) • [Documentation](https://github.com/vre-charite-autodeploy) • [Community](https://github.com/vre-charite-autodeploy/discussions)
+[Get Started](https://github.com/vre-charite-dev/vre-infra) • [Documentation](https://github.com/vre-charite-autodeploy) • [Community](https://us06web.zoom.us/meeting/register/tJErd-utqzkpHtI9rpX8cJVNSidRbM5wuMe1?_x_zm_rtaid=IJCTpcS4SGOCk1TKSMrfZQ.1747903776635.dde5dddf0170eaf75f6b4b29162b6480&_x_zm_rhtaid=232#/registration)
 
 </div>
