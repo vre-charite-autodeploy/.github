@@ -1,6 +1,6 @@
 # Charité Virtual Research Environment (VRE) AutoDeploy
 
-[![License]([https://img.shields.io/badge/License-Apache%202.0-blue.svg](https://img.shields.io/badge/EUPL-European%20Union%20Public%20Licence%201.2-librarygreen?style=for-the-badge))]([https://opensource.org/licenses/Apache-2.0](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12))
+[![License](https://img.shields.io/badge/License-EUPL%20v1.2-blue.svg)](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-≤1.29.x-326ce5.svg)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-v1.10+-623CE4.svg)](https://terraform.io/)
 [![Helm](https://img.shields.io/badge/Helm-v3.17+-0F1689.svg)](https://helm.sh/)
@@ -29,9 +29,11 @@ VRE is a node of the [EBRAINS Health Data Cloud](https://www.ebrains.eu/tools/he
 This new **AutoDeploy version** revolutionizes VRE deployment through complete automation:
 
 ### Infrastructure as Code
-- **Terraform**: Automated provisioning and configuration management
-- **Helm Charts**: Streamlined Kubernetes application deployment
+- **Terraform**: Automated provisioning and configuration managements – Declarative Terraform templates for each deployment phase (pre-install, install, intermediary-install, post-install).
+- **Helm Charts**: Streamlined Kubernetes application deployment – Modular Kubernetes application packages for VRE components.
 - **GitOps Workflow**: Version-controlled infrastructure changes
+- **Secrets & Configuration Guidance**: Clearly structured guidance for secure deployment setup.
+- **Scalable Environments**: Easily configure new staging or production environments using customizable .tfvars files.
 
 ### Core Components
 - **Identity & Access Management**: Keycloak-based authentication with LDAP integration
@@ -70,11 +72,14 @@ for TF_FOLDER in "${FOLDERS[@]}"; do
 done
 ```
 
+👉 Read the full deployment guide in each repository for detailed steps.
+
+
 ## 📚 Documentation & Resources
 
-- **📖 [Deployment Guide](https://github.com/vre-charite-dev/vre-infra)**: Complete step-by-step deployment instructions
-- **🔧 [Configuration Reference](https://github.com/vre-charite-dev/vre-infra/tree/main/terraform/config)**: Detailed configuration options
-- **🐛 [Troubleshooting Guide](https://github.com/vre-charite-dev/vre-infra#troubleshooting)**: Common issues and solutions
+- **📖 [Deployment Guide](https://github.com/vre-charite-autodeploy/vre-infra)**: Complete step-by-step deployment instructions
+- **🔧 [Configuration Reference](https://github.com/vre-charite-autodeploy/vre-infra/tree/main/terraform/config)**: Detailed configuration options
+- **🐛 [Troubleshooting Guide](https://github.com/vre-charite-deploy/vre-infra#troubleshooting)**: Common issues and solutions
 - **💬 [Community Support](https://github.com/vre-charite-autodeploy/discussions)**: Get help from the community
 
 ## 🌟 Use Cases
@@ -100,7 +105,7 @@ We welcome contributions from the research and developer community! Whether you'
 
 ## 📄 License
 
-This project is licensed under the EUPL v1.2 License - see the LICENSE files for details.
+This project is licensed under the European Union Public License v1.2 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
