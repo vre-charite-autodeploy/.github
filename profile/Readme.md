@@ -79,7 +79,7 @@ done
 
 ## 📚 Documentation & Resources
 
-- **📖 [Deployment Guide]([https://github.com/vre-charite-autodeploy/vre-infra](https://github.com/vre-charite-autodeploy/vre-infra/blob/main/DEPLOYMENT.md)**: Complete step-by-step deployment instructions
+- **📖 [Deployment Guide](https://github.com/vre-charite-autodeploy/vre-infra/blob/main/DEPLOYMENT.md)**: Complete step-by-step deployment instructions
 - **🔧 [Configuration Reference](https://github.com/vre-charite-autodeploy/vre-infra/tree/main/terraform/config)**: Detailed configuration options
 - **💬 [Community Support](https://github.com/vre-charite-autodeploy/discussions)**: <vre-support@charite.de> and [register for our bi-weekly community meetings](https://us06web.zoom.us/meeting/register/tJErd-utqzkpHtI9rpX8cJVNSidRbM5wuMe1?_x_zm_rtaid=IJCTpcS4SGOCk1TKSMrfZQ.1747903776635.dde5dddf0170eaf75f6b4b29162b6480&_x_zm_rhtaid=232#/registration).
 
