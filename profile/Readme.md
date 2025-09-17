@@ -55,7 +55,7 @@ This new **AutoDeploy version** revolutionizes VRE deployment through complete a
 ### One-Command Deployment
 ```bash
 # Clone the repository
-git clone https://github.com/vre-charite-dev/vre-infra.git
+git clone https://github.com/vre-charite-autodeploy/vre-infra.git
 cd vre-infra
 
 # Configure your environment
